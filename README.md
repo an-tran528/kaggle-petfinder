@@ -6,7 +6,7 @@ This is a Kernels-only competition. At the end of the competition, test data wil
 (more info: https://www.kaggle.com/c/petfinder-adoption-prediction/data) 
 
 ## Overall result
-Ranked 13th/2010 in Public board with Quadratic weighted kappa score (QWK) 0.481 (Private board: TBA)  
+Ranked 13th/2010 in Public board with Quadratic weighted kappa score (QWK) 0.481 (Private board: 30/2010)  
 The kernel runs 19400s on Kaggle's CPU  
         model name	: Intel(R) Xeon(R) CPU @ 2.30GHz  
         cpu MHz		: 2300.000  
